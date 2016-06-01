@@ -1,3 +1,7 @@
+/**
+ * Load user middleware
+ */
+
 var User = require('models/user').User;
 
 module.exports = function(req, res, next) {

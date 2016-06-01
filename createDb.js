@@ -1,3 +1,7 @@
+/**
+ * Create DB
+ */
+
 var mongoose = require('lib/mongoose');
 var async = require('async');
 

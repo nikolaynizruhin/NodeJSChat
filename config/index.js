@@ -1,3 +1,8 @@
+/**
+ * App configuration.
+ * Get conf from config.json
+ */
+
 var nconf = require('nconf');
 var path = require('path');
 

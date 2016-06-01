@@ -1,3 +1,7 @@
+/**
+ * User model
+ */
+
 var crypto = require('crypto');
 var async = require('async');
 var util = require('util');

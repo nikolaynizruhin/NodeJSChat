@@ -1,3 +1,7 @@
+/**
+ * Custom HttpError
+ */
+
 var path = require('path');
 var util = require('util');
 var http = require('http');

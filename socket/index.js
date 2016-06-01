@@ -1,3 +1,7 @@
+/**
+ * Socket.io
+ */
+
 var log = require("lib/log")(module);
 var async = require("async");
 var cookie = require("cookie");

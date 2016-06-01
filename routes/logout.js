@@ -1,3 +1,7 @@
+/**
+ * /logout route
+ */
+
 exports.post = function(req, res, next) {
   var sid = req.session.id;
 

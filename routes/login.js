@@ -1,3 +1,7 @@
+/**
+ * /login route
+ */
+
 var User = require('models/user').User;
 var HttpError = require('error').HttpError;
 var AuthError = require('models/user').AuthError;

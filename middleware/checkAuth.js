@@ -1,3 +1,7 @@
+/**
+ * Check auth middleware
+ */
+
 var HttpError = require('error').HttpError;
 
 module.exports = function(req, res, next) {
