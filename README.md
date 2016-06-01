@@ -1,2 +1,2 @@
 # NodeJSChat
-## Socket.IO + Express + MongoDB + Authorization
+Socket.IO + Express + MongoDB + Authorization
